@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm S. Manasa 👋
 
-<!--
-**Manasa-009/Manasa-009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 1st Year Biotechnology Student | Aspiring Biotechnology Researcher | St. Joseph's College of Engineering 🧬🔬
 
-Here are some ideas to get you started:
+Passionate about **Biotechnology, Life Sciences, and Research**, with a growing interest in exploring how science and technology can be used to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Currently pursuing **B.Tech Biotechnology – 1st Year**
+* 🏫 **St. Joseph's College of Engineering**
+* 🔬 Aspiring **Biotechnology Researcher**
+* 🧬 Interested in **Molecular Biology, Genetics & Biotechnology**
+* 💻 Exploring **Programming, Bioinformatics & Computational Biology**
+* 📚 Currently learning and building my foundation in **Biotechnology and Research**
+* 🌱 Always curious to learn, experiment, and discover something new
+
+### 🧪 Areas of Interest
+
+* 🧬 Molecular Biology
+* 🧫 Microbiology
+* 🧪 Genetic Engineering
+* 💻 Bioinformatics
+* 🔬 Biotechnology Research
+* 🧠 Computational Biology
+* 🌱 Sustainable Biotechnology
+
+### 🛠️ Skills I'm Building
+
+`Biotechnology` `Python` `Bioinformatics` `Research` `Data Analysis` `Scientific Computing`
+
+### 📌 My Goal
+
+> To become a skilled **biotechnology-oriented researcher** and contribute to innovative research that can make a meaningful impact on science, healthcare, and society.
+
+### 🌟 Let's Connect
+
+I'm currently learning and exploring the world of biotechnology.
+Feel free to connect with me and follow my journey as I grow from a biotechnology student into a researcher! 🧬✨
+
+
